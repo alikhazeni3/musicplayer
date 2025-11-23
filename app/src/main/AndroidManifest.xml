@@ -15,7 +15,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Musicplayer1">
 
-        <!-- صفحه‌ی اول برنامه -->
         <activity
             android:name=".MainActivity"
             android:exported="true">
@@ -25,7 +24,6 @@
             </intent-filter>
         </activity>
 
-        <!-- صفحه پخش موزیک -->
         <activity android:name=".SecondActivity" />
 
     </application>
